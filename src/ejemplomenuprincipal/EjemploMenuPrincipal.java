@@ -46,6 +46,7 @@ public class EjemploMenuPrincipal {
                     
                     break;
                 case 2:
+                    System.out.println("Opcion de Sistema no disponible!");
                     break;
                 case 3:
                     break;
